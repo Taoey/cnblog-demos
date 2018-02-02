@@ -2,4 +2,4 @@
 博客园的一些实例小项目或代码
 
 ## 20180130
-添加'JSTLTest.1.zip' :用于EL表达式的练习
+JSTLTest.1.zip------ [SpringMVC学习手册(三)------EL和JSTL(上)](http://www.cnblogs.com/hwtblog/p/8386630.html)
